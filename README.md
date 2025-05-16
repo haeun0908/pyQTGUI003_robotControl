@@ -26,7 +26,7 @@ pip install opencv-python
 pip install pandas
 pip install requests
 pip install pillow
-pip install pyseria
+pip install pyserial
 pip install PyQt5
 ```
 
